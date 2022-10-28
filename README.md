@@ -1,35 +1,39 @@
-- Acerca de mí:
-  👋 Hola  Me llamo Erik, tengo 28 años mis principales hobbies es programar, jugar videojuegos, hacer ejercicio y me encantan los animales <3 
-  Me considero una persona muy divertida, amable, respetuosa, proactiva y comprometida.
-En este repositorio no todos los desarrollos son míos ya que algunos son de cursos que eh tomado a lo largo de mis tiempos libres :D
+## Acerca de mí:
+👋 Hola  Me llamo Erik, tengo 28 años mis principales hobbies es programar, jugar videojuegos, hacer ejercicio y me encantan los animales. <3 
+Me considero una persona muy divertida, amable, respetuosa, proactiva y comprometida.
+En este repositorio no todos los desarrollos son míos ya que algunos son de cursos que eh tomado a lo largo de mis tiempos libres :D  
 
-Actualmente tengo conocimiento en las siguientes tecnologías.
+Actualmente tengo conocimiento en las siguientes tecnologías.  
 
-BackEnd:
-  Java 
-    - Spring
-    - Spring MVC
-    - Spring Security 
-    - Spring Cloud
-    - JSF
-  PHP
-
-FrontEnd:
-  HTML
-  CSS
-  Bootstrap 4+
-  JavaScript
-  Jquery
-  Angular 8+
-    - Angular Material
-    - Prime NG
-
-Base de datos
-  MariaDB
-  Oracle
-  SqlServer
+**BackEnd:**
+Java 
+- Spring
+- Spring MVC
+- Spring Security 
+- Spring Cloud
+- jsf  
   
-DevOps
+  
+PHP
+
+**FrontEnd:**
+HTML  
+CSS  
+Bootstrap 4+  
+JavaScript  
+Jquery  
+Angular 8+
+- Angular Material
+- Prime NG
+  
+  
+**Base de datos**
+MariaDB  
+Oracle  
+SqlServer  
+  
+  
+**DevOps:**
   Docker
 
 <!---
